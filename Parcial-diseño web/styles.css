@@ -1,0 +1,16 @@
+/* Archivo CSS personalizado */
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  header .navbar-brand img {
+    width: 50px;
+  }
+  
+  main h1 {
+    color: #2a9d8f;
+  }
+  
+  .footer a {
+    color: #ffffff;
+  }
